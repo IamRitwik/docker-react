@@ -1,3 +1,4 @@
+#Only for development purpose
 FROM node:alpine
 
 WORKDIR '/app'
